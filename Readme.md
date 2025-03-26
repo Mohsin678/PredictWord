@@ -1,1 +1,1 @@
-## This nlm project for prediciting next word
+## This nlm project for prediciting next word This is nlp using gru
